@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <math.h>
 
+
+/*  
+	Arman Dindar Safa	
+*/
+
 int main()
 {
 	double a, b, c, x1, x2;
